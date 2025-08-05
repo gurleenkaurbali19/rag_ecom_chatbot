@@ -49,12 +49,15 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
-The chatbot will launch at: http://127.0.0.1:7860
+The chatbot will launch at: 
+```
+http://127.0.0.1:7860
+```
 
 🙋‍♀️ Notes
 The chatbot works fully locally – no APIs or cloud models required.
 Includes follow-up logic for product selling conversations (mobile/laptop).
 If the bot can't answer, it provides a fallback response with contact info.
 
-🧑‍💻 Author
+🧑‍💻 Author:
 Made by Gurleen Kaur Bali
