@@ -1,0 +1,130 @@
+[
+ {
+    "question": "I can't log into my account, I keep getting an error message",
+    "answer": "I'm sorry to hear that you're facing login issues. Please try resetting your password first. If the issue continues, ensure your app is updated. Still not working? I can escalate this to our support team for a detailed check."
+  },
+  {
+    "question": "I need to sell my Phone Moto Gt35 which comes with Android 13 and is in good condition.",
+    "answer": "Great! I can help with that. Could you please answer a few quick questions? What's your phone’s battery health? Are all buttons working properly? Any physical damage like scratches or cracks?"
+  },
+  {
+    "question": "Where is my order?",
+    "answer": "You can track your order by visiting 'My Orders' in your account section. Let me know if you'd like me to check it for you."
+  },
+  {
+    "question": "What is your return policy?",
+    "answer": "We accept returns within 30 days of delivery as long as the item is unused and in its original packaging."
+  },
+  {
+    "question": "How do I cancel my order?",
+    "answer": "You can cancel your order from the order details page within 2 hours of placing it. After that, cancellation depends on dispatch status."
+  },
+  {
+    "question": "Do you ship internationally?",
+    "answer": "Yes, we ship to over 50 countries. International shipping charges and times may vary based on location."
+  },
+  {
+    "question": "My product is damaged. What should I do?",
+    "answer": "I'm really sorry to hear that! Please upload images of the damaged product in the return section, and our team will assist you right away."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "If your order is not yet shipped, you can update the delivery address in 'My Orders'. Let me know if you’d like help doing that."
+  },
+  {
+    "question": "What are your shipping charges?",
+    "answer": "Shipping is free for orders above ₹499. Orders below that amount incur a ₹50 shipping charge."
+  },
+  {
+    "question": "How can I contact customer support?",
+    "answer": "You can reach us via chat or call through the 'Help' section in the app. We're here to assist 24/7!"
+  },
+  {
+    "question": "I received the wrong item. What should I do?",
+    "answer": "Sorry for the mix-up! Please raise a return request under 'My Orders' and select the reason as 'Wrong Item Received'. We'll fix it asap."
+  },
+  {
+    "question": "Can I exchange a product instead of returning it?",
+    "answer": "Yes, if the product is eligible, you'll see an 'Exchange' option in the return flow. Exchanges are subject to stock availability."
+  },
+{
+  "question": "hello",
+  "answer": "Hi there! How can I help you today?"
+  },
+{
+  "question": "hi",
+  "answer": "Hello! Need help with your order or have a question?"
+},
+{
+  "question": "hey",
+  "answer": "Hey! I'm here to help. What can I assist you with?"
+},
+{
+  "question": "thank you",
+  "answer": "You're welcome! Let me know if there's anything else you need."
+},
+{
+  "question": "bye",
+  "answer": "Goodbye! Have a great day 😊"
+},
+{
+  "question": "thanks",
+  "answer": "Anytime! Happy to help."
+},
+{
+  "question": "okay thanks",
+  "answer": "Anytime! Happy to help."
+},
+{
+  "question": "When will my refund be processed?",
+  "answer": "Refunds are usually processed within 5–7 business days after the return is approved."
+},
+{
+  "question": "Can I pay using UPI?",
+  "answer": "Yes, we support UPI, credit/debit cards, wallets, and net banking."
+},
+{
+  "question": "Is cash on delivery available?",
+  "answer": "Yes, COD is available for most locations on orders below ₹5,000."
+},
+{
+  "question": "How do I update my profile details?",
+  "answer": "You can edit your profile information by going to 'My Account' > 'Profile Settings'."
+},
+{
+  "question": "How can I apply a coupon code?",
+  "answer": "You can enter your coupon code during checkout under the 'Apply Coupon' section."
+},
+{
+  "question": "What if I miss the delivery?",
+  "answer": "Don’t worry! Our delivery partner will attempt again the next business day or contact you for rescheduling."
+},
+{
+  "question": "Do you sell refurbished products?",
+  "answer": "Yes, we offer certified refurbished electronics with warranty and quality checks."
+},
+{
+  "question": "Is there a mobile app for your platform?",
+  "answer": "Yes! You can download our mobile app from Google Play Store or Apple App Store for a smoother experience."
+},
+
+{
+    "question": "What payment methods do you accept?",
+    "answer": "We accept credit/debit cards, net banking, UPI, cash on delivery, and popular wallets like Paytm and PhonePe."
+  } ,     
+
+{
+    "question": "Okay",
+    "answer": "Got it! Let me know if you need anything else 😊"
+
+},
+{
+  "question": "ok",
+  "answer": "Alright! I'm here if you have more questions."
+},
+{
+  "question": "k",
+  "answer": "Sure! Feel free to ask if you need help with anything."
+}
+
+]
