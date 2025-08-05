@@ -15,14 +15,14 @@ This is a Retrieval-Augmented Generation (RAG)-style chatbot designed to help us
 ---
 
 ## 📁 Project Structure
-
+```
 rag_ecom_chatbot/
 ├── app.py # Main Gradio UI
 ├── rag_chatbot.py # RAG chatbot logic (embedding, faiss, follow-up)
 ├── ecom_data_qa.json # Static QA data used for semantic search
 ├── requirements.txt # Python dependencies
 └── README.md # Project overview & setup instructions
-
+```
 
 ---
 
