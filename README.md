@@ -46,7 +46,9 @@ cd rag_ecom_chatbot
 pip install -r requirements.txt
 ```
 ### 3. Run the Chatbot
+```
 python app.py
+```
 The chatbot will launch at: http://127.0.0.1:7860
 
 🙋‍♀️ Notes
